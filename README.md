@@ -79,7 +79,9 @@ http://<workernode_ip>:32400
 
 > Download the ArgoCD CLI
 ```bash
-# https://github.com/argoproj/argo-cd/releases/latest
+# ArgoCD cli resources
+https://github.com/argoproj/argo-cd/releases/latest
+
 # For linux based OS I use below link to download
 wget https://github.com/argoproj/argo-cd/releases/download/v2.7.7/argocd-linux-amd64
 
